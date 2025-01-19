@@ -30,6 +30,14 @@ A script that, based on a text file with three columns separated by tabs, reads 
 python file-extensions.py list-files-results.txt file-extensions.txt
 ```
 
+### extensions-friendly-names
+A script that creates a dictionary of file extensions and their descriptions. The dictionary information is obtained by searching the Windows registry.
+
+```bash
+# python extensions-friendly-names.py
+python extensions-friendly-names.py
+```
+
 <!--
 ```python
 import foobar

@@ -124,3 +124,7 @@ cython_debug/
 # Exclusions
 list-files-results.txt
 list-files-results.xlsx
+
+# file-extensions
+file-extensions.*
+!file-extensions.py
